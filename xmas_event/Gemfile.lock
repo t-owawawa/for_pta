@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    keynote-client (0.1.2)
+      unindent (~> 1.0)
+    unindent (1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  keynote-client
+
+BUNDLED WITH
+   2.0.2
